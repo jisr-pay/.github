@@ -1,0 +1,10 @@
+<svg width="480" height="168" viewBox="0 0 480 168" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <title>Jisr Pay</title>
+  <g transform="translate(4,4)">
+    <path d="M34 116C34 116 64 40 100 40C136 40 166 116 166 116" stroke="#7C3AED" stroke-width="15" stroke-linecap="round"/>
+    <circle cx="34" cy="116" r="12" fill="#F59E0B"/>
+    <circle cx="166" cy="116" r="12" fill="#F59E0B"/>
+  </g>
+  <text x="200" y="96" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="56" font-weight="800" letter-spacing="6" fill="#0A0A0F">JISR</text>
+  <text x="200" y="132" font-family="'Inter','Segoe UI',system-ui,sans-serif" font-size="21" font-weight="600" letter-spacing="10" fill="#7C3AED">PAY</text>
+</svg>
