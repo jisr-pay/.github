@@ -1,6 +1,6 @@
 # Jisr Pay
 
-![Jisr Pay](assets/icon.svg)
+![Jisr Pay](https://raw.githubusercontent.com/jisr-pay/.github/main/assets/icon.svg)
 
 **Jisr Pay — جسر — building bridges across borders on Stellar Testnet.**
 

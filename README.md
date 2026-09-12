@@ -1,6 +1,6 @@
 # Jisr Pay
 
-![Jisr Pay](assets/logo.svg)
+![Jisr Pay](https://raw.githubusercontent.com/jisr-pay/.github/main/assets/logo.svg)
 
 Jisr Pay — جسر (bridge) — is a Testnet payment experiment on the Stellar network: a web client, an SDK of reusable payment primitives, and an internal settlement-tracking API.
 
